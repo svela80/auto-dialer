@@ -6,9 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+   "node": "4.4.5", "npm": "2.15.5"
+ },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joshuaterrill/twilio-autodialer.git"
+    "url": "https://github.com/svela80/auto-dialer.git"
   },
   "keywords": [
     "twilio",
